@@ -1,4 +1,4 @@
-# MultiPDF Chat App
+# AI TAX Agent App
 
 ## Introduction
 
@@ -62,10 +62,6 @@ Once completed, the app will open in your default web browser. If it doesn't, ch
 **Note:** Some technologies like Grok AI and LangChain might not have official logos available on Shields.io. In such cases, you can create custom badges or use alternative visual representations.
 
 ### Detailed List with Descriptions
-
-If you prefer to provide descriptions for each technology, a bulleted or table format can be more informative.
-
-#### Bulleted List
 
 ```markdown
 ## Technologies Used
