@@ -1,5 +1,9 @@
 # AI Tax Agent App
 
+# DOGE Grok AI
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://huggingface.co/spaces/Athsara/DOGE-grok-ai-dev)
+
 ## Introduction
 
 ---
