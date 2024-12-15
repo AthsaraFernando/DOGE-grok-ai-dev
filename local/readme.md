@@ -1,4 +1,4 @@
-# AI TAX Agent App
+# AI Tax Agent App
 
 ## Introduction
 
@@ -84,5 +84,5 @@ Once completed, the app will open in your default web browser. If it doesn't, ch
 
 ---
 
-The MultiPDF Chat App is released under the [MIT License](https://opensource.org/licenses/MIT).
+The AI Tax Agent App is released under the [MIT License](https://opensource.org/licenses/MIT).
 ```
